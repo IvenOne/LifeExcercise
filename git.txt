@@ -1,0 +1,52 @@
+git commit
+
+git branch newImage ---> git commit ---->  git checkout [branchName]  ----》git commit   ====  git checkout -b [branchName]
+
+
+git merge bugFix  在主干Merge 其他的分支
+
+
+git rebase master 是将自己的分支直接放到 主干上 不会昌盛新的分支
+
+
+分离 head git checkout hash值
+
+
+相对引用    git checkout [branchName]~[number]   向上移动几个提交记录  ^是向上一个  git checkout master^  git checkout HEAD~4
+
+                  git branch -f master HEAD~3  强制移动master指向HEAD的第三极父提交
+
+
+
+git 撤销        git reset HEAD~1     本地
+
+                git revert HEAD  服务端      git revert [branchName]^
+
+
+
+git cherry-pick <commit1><commit2><...>    讲几个提交放到一起移接
+
+
+
+git rebase -i(窗口ui显示)  git branch -f [第一个分支] [第二个分支]
+
+
+提交变换戏法  通过rebase 进行重新排序   git cherry-pick 可以实现在提交树上随意挑取一个分支进行合并
+
+
+
+
+git tag [tagName] [branchName]   给分支做标记  git checkout v1; 切换到发布版本
+
+git describe <ref>   显示离你最近的锚点也就是tag  <ref>是任何一个可以被git解读成commit的位置，如果你没有指定的话，Git会以你目前所在的位置为准 (HEAD)
+                     指令的输出就像这样：
+		     <tag>_<numCommits>_g<hash>
+                      最近的tag  离tag有多少个commits     <hash>表示的是你所制定的<ref>所表示的commit的前七个id.
+
+
+
+
+
+
+
+
