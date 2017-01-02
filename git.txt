@@ -6,7 +6,7 @@ git branch newImage ---> git commit ---->  git checkout [branchName]  ----》git
 git merge bugFix  在主干Merge 其他的分支
 
 
-git rebase master 是将自己的分支直接放到 主干上 不会昌盛新的分支
+git rebase master 是将自己的分支直接放到 主干上 不会产生新的分支
 
 
 分离 head git checkout hash值
