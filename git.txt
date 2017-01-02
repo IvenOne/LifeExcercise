@@ -45,7 +45,7 @@ git describe <ref>   显示离你最近的锚点也就是tag  <ref>是任何一�
 
 
 
-
+git checkout --detach master 切换到最新的master分支上
 
 
 
