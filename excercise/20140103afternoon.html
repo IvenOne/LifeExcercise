@@ -1,0 +1,32 @@
+
+<script>
+document.write("EcmaScript 只使用静态作用域而诸如perl这样的语言，既可以使用静态作用域也可以使用动态作用域进行变量声明");
+
+
+var $break={};
+function getElement(){
+    try{
+	    [1,2,3].forEach(
+		function(element){
+			console.log($break);
+		   if(element %2 == 0){
+		       $break.data = element;
+			   			console.log($break);
+						alert("无效1");
+			   throw $break;
+			   alert("无效2");
+		   }
+		}
+		);
+	}
+	catch(e){
+					console.log($break);
+	   if(e == $break){
+	      return $break.data;
+	   }
+	}
+}
+
+alert(getElement());
+
+</script>
