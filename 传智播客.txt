@@ -1,0 +1,87 @@
+指针标准和知识体系搭建
+http://open.itcast.cn/c/11-150.html?1609symqun
+源码和笔记: http://pan.baidu.com/s/1o6FS8Y2 密码: 9d6a
+
+指针和链表在项目开发中的实战应用
+http://open.itcast.cn/c/11-151.html?1609symqun
+源码和笔记: http://pan.baidu.com/s/1kTCAPzL 密码: 328g
+
+贵族语言C/C++的发展趋势以及就业方向
+http://open.itcast.cn/c/11-166.html?1609symqun
+源码和笔记: http://pan.baidu.com/s/1sj8vBOx 密码: dzfs
+
+C语言与木马恶意代码分析和360安全防护揭秘资料和笔记
+链接: http://pan.baidu.com/s/16lQKu 密码: w69a
+
+邮箱账户的破解与邮箱安全防控源码和资料
+链接: http://pan.baidu.com/s/1qWt8QwW 密码: gbsh
+
+C/C++全球使用率25%，中国市场缺口17.5万，并且每年以倍数递增
+
+2016年最新java教程基础（27天完整版）
+http://pan.baidu.com/s/1jH0zdky
+链接：http://pan.baidu.com/s/1bjeAcA 密码：la57
+
+各学科开发工具
+链接：http://pan.baidu.com/s/1hry0RYk 密码：na82
+
+Android基础视频
+http://open.itheima.com/Android/13-76.html?1612trkqun
+链接：http://pan.baidu.com/s/1brXL4E 密码：dqni
+
+RxAndroid视频
+http://pan.baidu.com/s/1c2HiL0k
+链接:http://pan.baidu.com/s/1eRStLb8 密码:8f8s
+Photoshop基础视频
+http://dvd.boxuegu.com/course/93.html?1612trkqun
+链接：http://pan.baidu.com/s/1bnKc6Vt 密码：4uuv
+
+Photoshop基础视频
+http://www.itheima.com/apply/61894.html?1612trkqun
+链接：http://pan.baidu.com/s/1dE8bL0d 密码：7v64
+传智PHP从入门到精通（19天）
+http://dvd.boxuegu.com/course/9.html?1612trkqun
+配套源码链接:http://pan.baidu.com/s/1kTy826V 密码:9g9g
+
+
+
+前端与移动开发基础视频
+http://dvd.boxuegu.com/course/88.html?1612trkqun  
+
+
+2016年最新Objective-c教程
+
+视频：http://pan.baidu.com/s/1boZSaf1
+链接: http://pan.baidu.com/s/1pKTyac7 密码: hie6
+
+
+2016最新录 制C语言教程出炉，更多免费教程加我好友或者私聊
+http://dvd.boxuegu.com/course/178.html?1612trkqun
+http://pan.baidu.com/s/1jHXBANO
+http://pan.baidu.com/s/1qYcjc40 密码：ely4
+梦里失了心 2016/8/4 15:44:44
+python
+
+Android基础视频
+http://open.itheima.com/Android/13-76.html?1612trkqun
+链接：http://pan.baidu.com/s/1brXL4E 密码：dqni
+梦里失了心 2016/8/4 15:44:52
+这个是重点
+
+python-爬虫抓取网页神技1 
+http://open.itcast.cn/c/11-394.html?1612trkqun
+链接: http://pan.baidu.com/s/1skFKhsD 密码: 3azv
+python-爬虫抓取网页神技2
+http://open.itcast.cn/c/11-395.html?1612trkqun
+链接: http://pan.baidu.com/s/1dF2RPDn 密码: 2mzg
+
+
+8天深入理解python教程
+http://dvd.boxuegu.com/course/145.html?1612trkqun
+源码链接: http://pan.baidu.com/s/1kUgQQsJ 密码: usw2
+
+
+编程语言全套资料（C\OC\JAVA\PHP前端等等，记得收藏）
+http://www.itcast.cn/news/20160711/14041460871.shtml?1612trkqun
+2017年薪即将兴起的技术，不知道你就Out了
+http://www.itcast.cn/subject/stackzly/index.shtml?1612trkqun

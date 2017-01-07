@@ -1,0 +1,13 @@
+<script>
+var global = this;
+var a = 10;
+ 
+function foo() {}
+ 
+alert(foo.__parent__); // global
+ 
+var VO = foo.__parent__;
+ 
+alert(VO.a); // 10
+alert(VO === global); // true
+</script>
